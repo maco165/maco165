@@ -6,13 +6,13 @@ Developer based in Tokyo. I build web apps and automation tools around forex dat
 
 🗼 Tokyo
 
-## 🛠️ Tech
+## Tech
 
 - Languages: Python (main), Java, C, JavaScript, MQL4, C#, Shell
 - Areas: Web apps (React / Vite), Discord Bot, 為替・暗号資産の自動売買, データ収集と分析
 - Tools: Claude Code (スキル・サブエージェントの整備)
 
-## 📦 Works
+## Works
 
 Selected public repositories.
 
