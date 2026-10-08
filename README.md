@@ -1,10 +1,12 @@
 # 👋 maco165
 
 東京を拠点に開発をしています。Webアプリや、為替データを扱う自動化ツールなどを個人で作っています。
+
 Developer based in Tokyo. I build web apps and automation tools around forex data.
+
 📍 Tokyo
 
-## 🛠 Tech
+## 🛠️ Tech
 
 - 💻 Languages: Python (main), Java, C, JavaScript, MQL4, C#, Shell
 - 🧭 Areas: Web apps (React / Vite), Discord Bot, 為替・暗号資産の自動売買, データ収集と分析
