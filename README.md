@@ -1,8 +1,8 @@
 # 👋 maco165
 
-東京を拠点に開発をしています。Webアプリや、為替データを扱う自動化ツール、ゲームのデータの解析などを個人で作っています。
+都内の SIer に勤務していて、個人では主に AI を用いた開発を行っています。Web アプリや、為替データを扱う自動化ツール、ゲームのデータの解析などを作っています。
 
-Developer based in Tokyo. I build web apps, automation tools around forex data, and analyses of game data.
+I work at a systems integrator in Tokyo. On my own, I mainly build things with AI: web apps, automation tools around forex data, and analyses of game data.
 
 🗼 Tokyo
 
