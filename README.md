@@ -19,4 +19,4 @@
 | プロジェクト / Project | 内容 / About |
 |---|---|
 | **売買ルールの検証と自動売買** | 検証を通ったルールを MT5 の EA で運用し、AI がシグナルごとに判断する<br><sub>Trading rules that pass validation run as an MT5 EA, with AI reviewing each signal</sub> |
-| **Claude Code のエージェント運用** | スキル・サブエージェント・定期実行で、調査から記録までを自動化する<br><sub>Skills, subagents and scheduled jobs automate the work from research to records</sub> |
+| **AI エージェントの自動運用基盤** | スキル・サブエージェント・定期実行で、調査から記録までを毎日自動で回す<br><sub>Skills, subagents and scheduled jobs run research through record keeping every day</sub> |
