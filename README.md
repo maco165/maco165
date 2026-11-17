@@ -22,9 +22,9 @@ Current projects.
 - [英単語道場](https://maco165.github.io/english-vocab-app/) ([repo](https://github.com/maco165/english-vocab-app))<br>
   ブラウザで使える英単語の学習アプリです。<br>
   A free English vocabulary quiz app that runs in the browser.
-- 売買ルールの検証 (非公開)<br>
-  為替・金・暗号資産の売買ルールを、過去データとペーパートレードで検証しています。<br>
-  Testing trading rules for forex, gold, and crypto with historical data and paper trading (private).
+- 売買ルールの検証と自動売買 (非公開)<br>
+  為替・金・暗号資産の売買ルールを過去データとペーパートレードで検証し、通ったルールを MT5 の EA に載せて口座で動かしています。シグナルごとに AI が実行するかを判断し、結果を記録して次の検証に戻しています。<br>
+  Validating trading rules for forex, gold, and crypto with historical data and paper trading, then running the rules that pass as an MT5 expert advisor on a live account. An AI layer reviews each signal before execution, and the results feed back into the next round of research (private).
 - Claude Code によるエージェント運用 (非公開)<br>
   スキル・サブエージェント・定期実行を組み合わせ、調査から記録までを自動化しています。<br>
   Running agents with Claude Code: skills, subagents, and scheduled jobs automate the work from research to record keeping (private).
