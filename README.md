@@ -1,36 +1,22 @@
 # 🐹 maco165
 
-都内の SIer に勤めるエンジニアです。個人では AI を活用した開発に取り組んでおり、Web アプリや為替データの自動化ツール、ゲームデータの解析などを手がけています。
+都内の SIer に勤めるエンジニア。個人では AI を活用した開発をしています。<br>
+<sub>An engineer at a systems integrator in Tokyo, building AI-assisted side projects.</sub>
 
-I'm an engineer at a systems integrator in Tokyo. In my own time, I build AI-assisted projects such as web apps, forex automation tools, and game data analysis.
-
-🗼 Tokyo
+🗼 Tokyo · [Site](https://maco165.github.io/) · [X](https://twitter.com/maco165_rust) · [Qiita](https://qiita.com/maco165)
 
 ## 🚀 Now
 
-Current projects.
+| サイト / Site | 内容 / About |
+|---|---|
+| **[kcna-dojo](https://maco165.github.io/kcna-dojo/)**<br><sub>[repo](https://github.com/maco165/kcna-dojo)</sub> | Kubernetes の入門資格 KCNA-JP を、穴埋めと 4 択で学ぶ<br><sub>Learn for KCNA-JP, the entry-level Kubernetes certification, with fill-in and multiple-choice lessons</sub> |
+| **[Rust Analysis](https://maco165.github.io/rust-patch-notes/)**<br><sub>[repo](https://github.com/maco165/rust-patch-notes)</sub> | ゲーム Rust のパッチノートを日本語で整理し、アイテムのデータを添える<br><sub>Japanese summaries of the game Rust's patch notes, with item data</sub> |
+| **[anime-guide](https://maco165.github.io/anime-guide/)**<br><sub>[repo](https://github.com/maco165/anime-guide)</sub> | 図とグラフで、アニメ作品の世界観を解説する<br><sub>Anime worlds explained with diagrams and charts</sub> |
+| **[英単語道場](https://maco165.github.io/english-vocab-app/)**<br><sub>[repo](https://github.com/maco165/english-vocab-app)</sub> | ブラウザで遊べる英単語クイズ<br><sub>A free English vocabulary quiz in the browser</sub> |
 
-- [kcna-dojo](https://maco165.github.io/kcna-dojo/) ([repo](https://github.com/maco165/kcna-dojo))<br>
-  Kubernetes の入門資格 KCNA-JP の学習サイトです。コマンドや YAML の穴埋め・4 択をレッスンで解き、進捗はブラウザに残ります。<br>
-  A study site for KCNA-JP, the entry-level Kubernetes certification. You work through lessons of fill-in-the-blank and multiple-choice questions on commands and YAML, and your progress is saved in the browser.
-- [Rust Analysis](https://maco165.github.io/rust-patch-notes/) ([repo](https://github.com/maco165/rust-patch-notes))<br>
-  サバイバルゲーム Rust (Facepunch) の公式パッチノートを日本語で整理し、アイテムのデータ表を添えた非公式サイトです。データはゲームサーバーのファイルを静的解析して取り出しています。<br>
-  An unofficial site that summarizes the official patch notes of the survival game Rust (Facepunch) in Japanese, with item data tables. The data is extracted by statically analyzing the game server files.
-- [anime-guide](https://maco165.github.io/anime-guide/) ([repo](https://github.com/maco165/anime-guide))<br>
-  図とグラフで作品の世界観を紹介する、みんなで手を入れていけるアニメ解説サイトです。<br>
-  An anime guide that explains the world of each series with diagrams and charts. Anyone can contribute to it.
-- [英単語道場](https://maco165.github.io/english-vocab-app/) ([repo](https://github.com/maco165/english-vocab-app))<br>
-  ブラウザで使える英単語の学習アプリです。<br>
-  A free English vocabulary quiz app that runs in the browser.
-- 売買ルールの検証と自動売買 (非公開)<br>
-  為替・金・暗号資産の売買ルールを過去データとペーパートレードで検証し、通ったルールを MT5 の EA に載せて口座で動かしています。シグナルごとに AI が実行するかを判断し、結果を記録して次の検証に戻しています。<br>
-  Validating trading rules for forex, gold, and crypto with historical data and paper trading, then running the rules that pass as an MT5 expert advisor on a live account. An AI layer reviews each signal before execution, and the results feed back into the next round of research (private).
-- Claude Code によるエージェント運用 (非公開)<br>
-  スキル・サブエージェント・定期実行を組み合わせ、調査から記録までを自動化しています。<br>
-  Running agents with Claude Code: skills, subagents, and scheduled jobs automate the work from research to record keeping (private).
+### 🔒 Private
 
-## 🔗 Links
-
-- Site: https://maco165.github.io/
-- X: https://twitter.com/maco165_rust
-- Qiita: https://qiita.com/maco165
+| プロジェクト / Project | 内容 / About |
+|---|---|
+| **売買ルールの検証と自動売買** | 検証を通ったルールを MT5 の EA で運用し、AI がシグナルごとに判断する<br><sub>Trading rules that pass validation run as an MT5 EA, with AI reviewing each signal</sub> |
+| **Claude Code のエージェント運用** | スキル・サブエージェント・定期実行で、調査から記録までを自動化する<br><sub>Skills, subagents and scheduled jobs automate the work from research to records</sub> |
