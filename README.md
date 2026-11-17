@@ -10,6 +10,8 @@ I'm an engineer at a systems integrator in Tokyo. In my own time, I build AI-ass
 
 Current projects.
 
+- [KCNA 学習サイト kcna-dojo](https://maco165.github.io/kcna-dojo/) ([repo](https://github.com/maco165/kcna-dojo))<br>
+  Kubernetes の入門資格 KCNA-JP の学習サイトです。コマンドや YAML の穴埋め・4 択をレッスンで解き、進捗はブラウザに残ります。
 - [Rust パッチノート日本語まとめ](https://maco165.github.io/rust-patch-notes/) ([repo](https://github.com/maco165/rust-patch-notes))<br>
   サバイバルゲーム Rust (Facepunch) の公式パッチノートを日本語で整理し、アイテムのデータ表を添えた非公式サイトです。データはゲームサーバーのファイルを静的解析して取り出しています。
 - [アニメ解説](https://maco165.github.io/anime-guide/) ([repo](https://github.com/maco165/anime-guide))<br>
