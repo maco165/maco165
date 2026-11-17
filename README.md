@@ -5,7 +5,7 @@
 
 🗼 Tokyo · [Site](https://maco165.github.io/) · [X](https://twitter.com/maco165_rust) · [Qiita](https://qiita.com/maco165)
 
-## 🚀 Now
+## 🌐 Public
 
 | サイト / Site | 内容 / About |
 |---|---|
@@ -14,7 +14,7 @@
 | **[anime-guide](https://maco165.github.io/anime-guide/)**<br><sub>[repo](https://github.com/maco165/anime-guide)</sub> | 図とグラフで、アニメ作品の世界観を解説する<br><sub>Anime worlds explained with diagrams and charts</sub> |
 | **[英単語道場](https://maco165.github.io/english-vocab-app/)**<br><sub>[repo](https://github.com/maco165/english-vocab-app)</sub> | ブラウザで遊べる英単語クイズ<br><sub>A free English vocabulary quiz in the browser</sub> |
 
-### 🔒 Private
+## 🔒 Private
 
 | プロジェクト / Project | 内容 / About |
 |---|---|
